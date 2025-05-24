@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/U/Repos/PRE-08-mlflow-tracking-local-AlexChaverra/my_mlruns/359328356028087622/e919559906e34723b9afb326a4e5a33a/artifacts
+end_time: 1748100707920
+entry_point_name: ''
+experiment_id: '359328356028087622'
+lifecycle_stage: active
+run_id: e919559906e34723b9afb326a4e5a33a
+run_name: elasticnet_d17eb4ec
+run_uuid: e919559906e34723b9afb326a4e5a33a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100707731
+status: 3
+tags: []
+user_id: acvasquez

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/U/Repos/PRE-08-mlflow-tracking-local-AlexChaverra/my_mlruns/359328356028087622
+creation_time: 1748100478663
+experiment_id: '359328356028087622'
+last_update_time: 1748100478663
+lifecycle_stage: active
+name: wine_quality_experiment
